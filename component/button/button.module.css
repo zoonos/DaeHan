@@ -1,0 +1,18 @@
+.attendBtnWrap{
+    width: 33%;
+    display: flex;
+    align-items: center;
+}
+.attendBtn{
+    border-radius: 50%;
+    background: none;
+    cursor: pointer;
+    border: none;
+    color: #000000;
+    width: 80px;
+    height: 80px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

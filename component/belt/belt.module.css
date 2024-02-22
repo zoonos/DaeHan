@@ -1,0 +1,48 @@
+.beltWrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.belts{
+    width: 80px;
+    height: 160px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.jdText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+    font-size: 1.2rem;
+    font-weight: bold;
+    position: absolute;
+}
+.hb{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 60%;
+    background-color: red;
+}
+.preta{
+    width: 100%;
+    height: 120px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 15px 0 ;
+}
+.gral{
+    width: 100%;
+    height: 15px;
+    background-color: white;
+    margin-top: 10px;
+}
+.date{ margin-top: 8px; }
